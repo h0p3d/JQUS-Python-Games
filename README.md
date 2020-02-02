@@ -3,8 +3,9 @@ Instructions and starter code to develop three fun python games. Originally deve
 
 I developed these games in January 2020 as part of my student teaching program. 
 Students had learned about 
--python variables
+- python variables
 - data types (int, float, string, list and boolean)
+- functions
 - if statements
 - while loops
 - turtle commands - goto, penup, pendown, color, forward, right, setheading
